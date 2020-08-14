@@ -1,0 +1,26 @@
+/*My addition*/
+  
+#backgroundImg
+{
+ width:200%;
+ height:100%;
+ z-index : -3;
+  
+}
+
+.Icon
+{
+  position: relative;
+  top: 15px;
+  margin-right: 10px;
+}
+
+
+#blurr 
+{ 
+  /* Add the blur effect */
+  /*filter: blur(2px);*/
+  /*-webkit-filter: blur(2px);*/
+ }
+  
+	/*End of it*/
